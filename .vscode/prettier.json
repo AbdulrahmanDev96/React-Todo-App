@@ -1,0 +1,29 @@
+{
+  "editor.fontSize": 18,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "html.format.extraLiners": "110",
+  "window.zoomLevel": -1,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.wordWrap": "on",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "files.autoSave": "afterDelay",
+  "javascriptBooster.formattingOptions": {},
+  "json.schemas": [],
+  "cSpell.enableFiletypes": ["javascript"],
+  "workbench.iconTheme": "material-icon-theme",
+  "tabnine.experimentalAutoImports": true,
+  "gitlens.proxy": {},
+  "zenMode.hideStatusBar": false,
+  "gitlens.defaultDateLocale": null,
+  "prettier.bracketSpacing": false,
+  "html.format.preserveNewLines": false,
+  "prettier.bracketSameLine": true,
+  "prettier.printWidth": 80
+}
